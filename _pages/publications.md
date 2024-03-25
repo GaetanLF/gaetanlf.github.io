@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-Policy work
-====
+**Policy work**
 
-Seen in newspapers
-====
+**Research assistance**
+
+**Seen in newspapers**
