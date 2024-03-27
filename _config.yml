@@ -25,9 +25,9 @@ author:
   name             : "Gaëtan LE FLOCH"
   pronouns         : # example: "she/her"  
   bio              : "Research engineer at Nantes University, adjunct lecturer at Paris-Dauphine University (PSL)"
-  location         : "Bâtiment ERDRE - Office 218 - IAE de Nantes"
+  location         : "Bâtiment ERDRE - Office 218"
   employer         : "Nantes Université"
-  uri              : # URL
+  uri              : "https://www.univ-nantes.fr/gaetan-le-floch"# URL
   email            : "gaetan.le-floch@dauphine.psl.eu" 
 
   # Academic websites
