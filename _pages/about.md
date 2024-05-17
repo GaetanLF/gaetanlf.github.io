@@ -14,5 +14,5 @@ Welcome to my profile ! I am an economist with a keen interest in economic resea
 
 My experiences lie in the fields of econometrics, statistics and financial regulation. I am currently a research engineer dwelling on commodity prices and regulation at LEMNA (Nantes University). In order to run my researches, I use several programming languages, among them R, Python and Matlab.
 
-
+<u>Contact:</u> Gaetan.LEFLOCH(at)univ-nantes.fr
 
