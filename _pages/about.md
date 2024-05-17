@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<h1>**Gaëtan LE FLOCH**</h1>
+<h1>Gaëtan LE FLOCH</h1>
 <h2>Research engineer at Nantes University</h2>
 
 Welcome to my profile ! I am an economist with a keen interest in economic research, currently involved into a M.Phil. at Paris-Dauphine University where I chose a specialisation in macroeconomics and finance.
