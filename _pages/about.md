@@ -10,9 +10,11 @@ redirect_from:
 <h1>Gaëtan LE FLOCH</h1>
 <h2>Research engineer at Nantes University</h2>
 
-Welcome to my profile ! I am an economist with a keen interest in economic research, currently involved into a M.Phil. at Paris-Dauphine University where I chose a specialisation in macroeconomics and finance.
+Welcome to my profile ! I am an economist with a keen interest in economic research in macro-finance. I am currently a research engineer at Nantes University, where I work with <a href='https://sites.google.com/view/camille-ait-youcef/home' target="_blank">Dr. Camille AÏT-YOUCEF</a> on commodity prices and financial innovations in the US.
 
-My experiences lie in the fields of econometrics, statistics and financial regulation. I am currently a research engineer dwelling on commodity prices and regulation at LEMNA (Nantes University). In order to run my researches, I use several programming languages, among them R, Python and Matlab.
-
+<u>Education:</u> M.Phil. in Quantitative Economics, Paris-Dauphine (PSL) University (graduation in July).
+<u>Research interests:</u> Macroeconomics, financial regulation, quantitative economics.
 <u>Contact:</u> Gaetan.LEFLOCH(at)univ-nantes.fr
+
+
 
