@@ -24,11 +24,11 @@ author:
   avatar           : "GLEFLOCH.jpeg"
   name             : "Gaëtan LE FLOCH"
   pronouns         : # example: "she/her"  
-  bio              : "Research engineer at Nantes University, adjunct lecturer at Paris-Dauphine University (PSL)"
+  bio              : "Research engineer at Nantes University"
   location         : "Bâtiment ERDRE - Office 218"
   employer         : "Nantes Université"
   uri              : "https://www.univ-nantes.fr/gaetan-le-floch"# URL
-  email            : "gaetan.le-floch@dauphine.psl.eu" 
+  email            : "gaetan.lefloch@univ-nantes.fr" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
