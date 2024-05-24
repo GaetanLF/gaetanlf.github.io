@@ -13,7 +13,9 @@ redirect_from:
 Welcome to my profile ! I am an economist with a keen interest in economic research in macro-finance. I am currently a research engineer at Nantes University, where I work with <a href='https://sites.google.com/view/camille-ait-youcef/home' target="_blank">Dr. Camille AÏT-YOUCEF</a> on commodity prices and financial innovations in the US.
 
 <u>Education:</u> M.Phil. in Quantitative Economics, Paris-Dauphine (PSL) University (graduation in July).
+
 <u>Research interests:</u> Macroeconomics, financial regulation, quantitative economics.
+
 <u>Contact:</u> Gaetan.LEFLOCH(at)univ-nantes.fr
 
 
