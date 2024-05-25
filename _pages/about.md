@@ -14,7 +14,7 @@ redirect_from:
 
 <p><u>Education:</u> M.Phil. in Quantitative Economics, Paris-Dauphine (PSL) University (graduation in July).</p>
 
-<p><u>Research interests:</u> Macroeconomics, financial regulation, quantitative economics.</p>
+<p><u>Research interests:</u> Macroeconomics, finance, european economics, emerging markets, quantitative economics.</p>
 
 <p><u>Contact:</u> Gaetan.LEFLOCH(at)univ-nantes.fr</p>
 
